@@ -19,4 +19,4 @@ Você deve criar as suas classes de acordo com o diagrama abaixo:
 3. O método **InstalarAplicativo** deve ser sobrescrito na classe Nokia e iPhone, pois ambos possuem diferentes maneiras de instalar um aplicativo.
 
 ## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+Este desafio de POO foi solucionado por meio dos conhecimentos adquiridos a respeito dos pilares da Orientação a Objetos. Por meio destes, pode-se abstrair objetos da vida real para a criação de Apps, como também reutilizar o código por meio da herança, tal qual se adequar as diferentes necessidades com a utilização do conceito de Polimorfismo. Também implementamos uma maior segurança ao nosso sistema ao utilizar do conceito de Encapsulamento, que restringe as modificações às classes, fazendo com que os dados não possam ser alterados fora dos métodos da respectiva classe.
